@@ -1,6 +1,6 @@
 ## Hi there 👋, 
 # I am Rubaeid Sanjid
-### Junior Web Developer
+## Junior Web Developer
 #### About Me:
 I am an ambitious undergraduate Computer Science student at AIUB, currently exploring the exciting world of web development. With a solid foundation in HTML, CSS, Tailwind CSS, JavaScript, React, Firebase, Node Js, Express.js, and MongoDB, I have developed the skills to create beginner-level full-stack websites easily.
 
