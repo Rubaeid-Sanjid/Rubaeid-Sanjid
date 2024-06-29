@@ -15,7 +15,7 @@ Skills: HTML / CSS / Tailwind CSS / JS / REACT JS / Firebase / MongoDB
 - 📫 How to reach me: rubaeid.sanjid@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style="color:blue;" alt='github' height='40'>](https://github.com/Rubaeid-Sanjid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' style="color:blue;" alt='linkedin' height='40'>](https://www.linkedin.com/in/rubaeid-sanjid-03553a226/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' style="color:blue;" alt='facebook' height='40'>](https://www.facebook.com/Piyal.24)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' fill='#0000FF' alt='github' height='40'>](https://github.com/Rubaeid-Sanjid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' fill='#0000FF' alt='linkedin' height='40'>](https://www.linkedin.com/in/rubaeid-sanjid-03553a226/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' fill='#0000FF' alt='facebook' height='40'>](https://www.facebook.com/Piyal.24)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rubaeid-Sanjid)](https://github.com/ryo-ma/github-profile-trophy)
 
