@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there 👋, my name Rubaeid Sanjid
+#### Junior Web Developer
+I am an ambitious undergraduate Computer Science student at AIUB, currently exploring the exciting world of web development. With a solid foundation in HTML, CSS, Tailwind CSS, JavaScript, React, Firebase, Node Js, Express.js, and MongoDB, I have developed the skills to create beginner-level full-stack websites easily.
 
-<!--
-**Rubaeid-Sanjid/Rubaeid-Sanjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My passion for web development drives me to expand my knowledge and improve my skills continually. My ultimate goal is to become proficient as a MERN stack developer or Fullstack developer. I am dedicated to learning and mastering the technologies and tools required for this path. I thrive on new challenges and am eager to contribute to innovative and impactful projects.
 
-Here are some ideas to get you started:
+Let's connect and explore opportunities to collaborate and grow together in the ever-evolving tech landscape!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML / CSS / Tailwind CSS / JS / REACT JS / Firebase / MongoDB
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Next Js 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: rubaeid.sanjid@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rubaeid-Sanjid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rubaeid-sanjid-03553a226/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Piyal.24)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rubaeid-Sanjid)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubaeid-Sanjid)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubaeid-Sanjid&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rubaeid-Sanjid)  
+
