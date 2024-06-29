@@ -25,7 +25,10 @@ Let's connect and explore opportunities to collaborate and grow together in the 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubaeid-Sanjid)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rubaeid-sanjid&show_icons=true&locale=en" alt="rubaeid-sanjid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubaeid-sanjid&show_icons=true&locale=en" alt="rubaeid-sanjid" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rubaeid-sanjid&" alt="rubaeid-sanjid" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubaeid-Sanjid&show_icons=true) 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubaeid-sanjid&" alt="rubaeid-sanjid" /></p>
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rubaeid-Sanjid)  
