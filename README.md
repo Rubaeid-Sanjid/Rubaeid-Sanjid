@@ -23,7 +23,7 @@ Let's connect and explore opportunities to collaborate and grow together in the 
 <a href="https://fb.com/piyal.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piyal.24" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubaeid-sanjid&show_icons=true&locale=en&layout=compact" alt="rubaeid-sanjid" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubaeid-Sanjid)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rubaeid-sanjid&show_icons=true&locale=en" alt="rubaeid-sanjid" /></p>
 
