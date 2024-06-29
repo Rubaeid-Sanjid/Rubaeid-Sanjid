@@ -8,7 +8,6 @@ My passion for web development drives me to expand my knowledge and improve my s
 
 Let's connect and explore opportunities to collaborate and grow together in the ever-evolving tech landscape!
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Next Js 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
