@@ -3,19 +3,19 @@
 </div>
 <p> </p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rubaeid-sanjid-03553a226">
+  <a href="https://www.linkedin.com/in/rubaeid-sanjid-03553a226" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30>
   </a>
-  <a href="https://www.x.com/SkPiyal" target="blank">
+  <a href="https://www.x.com/SkPiyal" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30>
   </a>
-  <a href="mailto:rubaeid.sanjid@gmail.com" target="blank">
+  <a href="mailto:rubaeid.sanjid@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30" />
   </a>
-  <a href="https://fb.com/piyal.24" target="blank">
+  <a href="https://fb.com/piyal.24" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="30" />
   </a>
-  <a href="https://www.instagram.com/p_for_piyal_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30></a>
+  <a href="https://www.instagram.com/p_for_piyal_/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30></a>
 </p>
 
 ## About Me:
