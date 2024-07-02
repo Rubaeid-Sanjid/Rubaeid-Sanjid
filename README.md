@@ -2,7 +2,7 @@
   <img src="images/github-header-image.png" alt="Banner Image">
 </div>
 
-### About Me:
+## About Me:
 I am an ambitious undergraduate Computer Science student at AIUB, currently exploring the exciting world of web development. With a solid foundation in HTML, CSS, Tailwind CSS, JavaScript, React, Firebase, Node Js, Express.js, and MongoDB, I have developed the skills to create beginner-level full-stack websites easily.
 
 My passion for web development drives me to expand my knowledge and improve my skills continually. My ultimate goal is to become proficient as a MERN stack developer or Fullstack developer. I am dedicated to learning and mastering the technologies and tools required for this path. I thrive on new challenges and am eager to contribute to innovative and impactful projects.
@@ -14,7 +14,7 @@ Let's connect and explore opportunities to collaborate and grow together in the 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: rubaeid.sanjid@gmail.com
   
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a>
@@ -54,4 +54,6 @@ Let's connect and explore opportunities to collaborate and grow together in the 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubaeid-sanjid&show_icons=true&locale=en" alt="rubaeid-sanjid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubaeid-sanjid&" alt="rubaeid-sanjid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubaeid-sanjid&theme=highcontrast" alt="rubaeid-sanjid" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" /></a>
