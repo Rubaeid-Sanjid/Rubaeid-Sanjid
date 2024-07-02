@@ -2,7 +2,7 @@
   <img src="images/github-header-image.png" alt="Banner Image">
 </div>
 
-<p align="left" style="margin-top: 20px; margin-bottom: 20px;">
+<p align="left" style="margin-top: 50px; margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/rubaeid-sanjid-03553a226">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30>
   </a>
