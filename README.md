@@ -1,6 +1,5 @@
-![Banner](github-header-image.png)
 <div align="center">
-  <img src="github-header-image.png" alt="Banner Image">
+  <img src="github-header-image.png" alt="Banner Image" style="width:100%">
 </div>
 
 ### About Me:
