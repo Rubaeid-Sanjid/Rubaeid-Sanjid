@@ -54,4 +54,9 @@ Let's connect and explore opportunities to collaborate and grow together in the 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubaeid-sanjid&show_icons=true&locale=en" alt="rubaeid-sanjid" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" /></a>
+<h2 align="left">Daily Streak:</h2>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" />
+  </a>
+</div>
