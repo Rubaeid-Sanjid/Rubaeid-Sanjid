@@ -3,7 +3,7 @@
 </div>
 <p> </p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rubaeid-sanjid-03553a226" target="_blank">
+  <a href="https://www.linkedin.com/in/rubaeid-sanjid/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30>
   </a>
   <a href="https://www.x.com/SkPiyal" target="_blank">
