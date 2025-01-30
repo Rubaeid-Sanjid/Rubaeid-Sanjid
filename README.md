@@ -55,9 +55,9 @@ Let's connect and explore opportunities to collaborate and grow together in the 
 
 <h2 align="left">Daily Streak:</h2>
 <div align="center">
-  <a href="https://git.io/streak-stats">
+<!--   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" />
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rubaeid-sanjid&theme=rising-sun)](https://git.io/streak-stats)
-  </a>
+  </a> -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" /></a>
 </div>
