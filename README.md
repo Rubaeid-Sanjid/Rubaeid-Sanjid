@@ -64,6 +64,7 @@ Let's connect and explore opportunities to collaborate and grow together in the 
 
 ## 📊 GitHub Stats
 <div align="center">
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubaeid-sanjid&layout=compact&theme=radical)
+<!--     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubaeid-sanjid&layout=compact&theme=radical) -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubaeid-sanjid&layout=compact&theme=radical&cache_seconds=86400)
 </div>
 
