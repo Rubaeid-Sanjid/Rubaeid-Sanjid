@@ -61,3 +61,9 @@ Let's connect and explore opportunities to collaborate and grow together in the 
   </a> -->
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" /></a>
 </div>
+
+## 📊 GitHub Stats
+<div align="center">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubaeid-sanjid&layout=compact&theme=radical)
+</div>
+
