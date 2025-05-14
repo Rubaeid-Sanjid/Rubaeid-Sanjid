@@ -65,8 +65,10 @@ Let's connect and explore opportunities to collaborate and grow together in the 
     <img src="https://streak-stats.demolab.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" />
   </a> -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" /></a>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=rubaeid-sanjid&theme=rising-sun)](https://git.io/streak-stats)
+<!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" /></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=rubaeid-sanjid&theme=rising-sun)](https://git.io/streak-stats" alt="GitHub Streak" /></a>
+<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=rubaeid-sanjid&theme=rising-sun)](https://git.io/streak-stats) -->
+  
   
   <h2 align="left">Top Used Languages:</h2>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubaeid-sanjid&theme=tokyonight)
