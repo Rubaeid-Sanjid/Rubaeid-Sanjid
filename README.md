@@ -3,6 +3,9 @@
 </div>
 <p> </p>
 <p align="left">
+  <a href="https://rubaeid-sanjid-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-%2300D2FF.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" height=30>
+  </a>
   <a href="https://www.linkedin.com/in/rubaeid-sanjid/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30>
   </a>
@@ -19,60 +22,88 @@
 </p>
 
 ## About Me:
-I am an ambitious undergraduate Computer Science student at AIUB, currently exploring the exciting world of web development. With a solid foundation in HTML, CSS, Tailwind CSS, JavaScript, React, Firebase, Node Js, Express.js, and MongoDB, I have developed the skills to create beginner-level full-stack websites easily.
+I am **Sheikh Rubaeid Sanjid**, an energetic **Frontend Developer** with practical agency experience developing production-grade web applications and high-converting Shopify digital storefronts at **Softvence IT**. 
 
-My passion for web development drives me to expand my knowledge and improve my skills continually. My ultimate goal is to become proficient as a MERN stack developer or Fullstack developer. I am dedicated to learning and mastering the technologies and tools required for this path. I thrive on new challenges and am eager to contribute to innovative and impactful projects.
+I graduated with a **B.Sc. in Computer Science & Engineering from AIUB** *(CGPA: 3.60 / 4.00, Dean's Award honor)* and am currently pursuing my **M.Sc. in Data Science**. With a solid foundation in **React.js, Next.js, Tailwind CSS, JavaScript (ES6+), Shopify (Liquid), Node.js, Express.js, and MongoDB**, I specialize in building responsive, accessible, and high-performance digital products.
 
-Let's connect and explore opportunities to collaborate and grow together in the ever-evolving tech landscape!
+I emphasize writing modular, clean, and maintainable code with strict attention to performance and modern UI/UX design. I thrive on solving complex frontend challenges and collaborating on impactful web projects.
 
-- 🌱 I’m currently learning Next Js 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: rubaeid.sanjid@gmail.com
+- 💼 **Currently Working:** Frontend Developer at **[Softvence IT](https://softvenceit.com)**
+- 🌐 **Live Portfolio:** **[rubaeid-sanjid-portfolio.netlify.app](https://rubaeid-sanjid-portfolio.netlify.app/)**
+- 🎓 **Education:** B.Sc. in CSE from **AIUB** (Dean's Honor) | Pursuing **M.Sc. in Data Science**
+- 🌱 **Learning & Exploring:** Advanced Next.js, Shopify OS 2.0 architectures, and Data Science
+- 💬 **Ask me about:** React.js, Frontend Architecture, Shopify Customization, and MERN Stack
+- 📫 **How to reach me:** [rubaeid.sanjid@gmail.com](mailto:rubaeid.sanjid@gmail.com) | [WhatsApp: +8801680757025](https://wa.me/+8801680757025)
   
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-</a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" alt="shopify" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
-<h2 align="left">Daily Streak:</h2>
+<!-- <h2 align="left">Daily Streak:</h2>
 <div align="center">
-<!--   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" />
-  </a> -->
-<!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rubaeid-sanjid&theme=rising-sun" alt="GitHub Streak" /></a> -->
+
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=rubaeid-sanjid&theme=rising-sun)](https://git.io/streak-stats" alt="GitHub Streak" /></a>
-<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=rubaeid-sanjid&theme=rising-sun)](https://git.io/streak-stats) -->
   
   
   <h2 align="left">Top Used Languages:</h2>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubaeid-sanjid&theme=tokyonight)
 
+</div> -->
+
+<h2 align="left">Daily Streak & GitHub Stats:</h2>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=rubaeid-sanjid&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/Rubaeid-Sanjid">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubaeid-sanjid&theme=tokyonight&layout=compact" alt="Top Langs" />
+  </a>
 </div>
+
 
 
