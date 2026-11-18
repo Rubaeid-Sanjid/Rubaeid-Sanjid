@@ -22,16 +22,16 @@
 </p>
 
 ## About Me:
-I am **Sheikh Rubaeid Sanjid**, an energetic **Frontend Developer** with practical agency experience developing production-grade web applications and high-converting Shopify digital storefronts at **Softvence IT**. 
+I am **Sheikh Rubaeid Sanjid**, an energetic **Frontend Developer** with hands-on experience building production-grade web applications and high-converting Shopify digital storefronts. 
 
-I graduated with a **B.Sc. in Computer Science & Engineering from AIUB** *(CGPA: 3.60 / 4.00, Dean's Award honor)* and am currently pursuing my **M.Sc. in Data Science**. With a solid foundation in **React.js, Next.js, Tailwind CSS, JavaScript (ES6+), Shopify (Liquid), Node.js, Express.js, and MongoDB**, I specialize in building responsive, accessible, and high-performance digital products.
+I graduated with a **B.Sc. in Computer Science & Engineering from AIUB** *(Dean's Award honor)* and am currently pursuing my **M.Sc. in Data Science**. With a solid foundation in **React.js, Next.js, Tailwind CSS, JavaScript (ES6+), Shopify (Liquid), Node.js, Express.js, and MongoDB**, I specialize in building responsive, accessible, and high-performance digital products.
 
 I emphasize writing modular, clean, and maintainable code with strict attention to performance and modern UI/UX design. I thrive on solving complex frontend challenges and collaborating on impactful web projects.
 
-- 💼 **Currently Working:** Frontend Developer at **[Softvence IT](https://softvenceit.com)**
+- 💼 **Worked:** Frontend Developer at **[Softvence IT](https://softvence.agency/)**
 - 🌐 **Live Portfolio:** **[rubaeid-sanjid-portfolio.netlify.app](https://rubaeid-sanjid-portfolio.netlify.app/)**
 - 🎓 **Education:** B.Sc. in CSE from **AIUB** (Dean's Honor) | Pursuing **M.Sc. in Data Science**
-- 🌱 **Learning & Exploring:** Advanced Next.js, Shopify OS 2.0 architectures, and Data Science
+- 🌱 **Learning & Exploring:** Software Development and Data Science
 - 💬 **Ask me about:** React.js, Frontend Architecture, Shopify Customization, and MERN Stack
 - 📫 **How to reach me:** [rubaeid.sanjid@gmail.com](mailto:rubaeid.sanjid@gmail.com) | [WhatsApp: +8801680757025](https://wa.me/+8801680757025)
   
@@ -47,7 +47,8 @@ I emphasize writing modular, clean, and maintainable code with strict attention 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" alt="shopify" width="40" height="40"/>
+    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" alt="shopify" width="40" height="40"/> -->
+    <img src="https://shopify-assets.shopifycdn.com/b/shopify-brochure2-assets/d9340911ca8c679b148dd4a205ad2ffa.svg" alt="shopify" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
